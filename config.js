@@ -1,12 +1,12 @@
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.owner = ['6281283307615']  
+global.mods = ['6281283307615'] 
+global.prems = ['6281283307615']
+global.nameowner = 'ᴀ ɴ ᴅ ʀ ᴏ ᴋ ʟ ᴇ ᴍ ᴇ ɴ s'
+global.numberowner = '6281283307615' 
+global.mail = 'ambonpunya69@gmail.com'  
+global.gc = 'https://chat.whatsapp.com/CWrSXGAVbzbBbUlYayRyua'
+global.instagram = 'https://instagram.com/androklemens'
+global.wm = '©  𝘼𝙣𝙙𝙧𝙤𝙆𝙡𝙚𝙢𝙚𝙣𝙨🜸'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -15,11 +15,11 @@ global.author = 'Bot WhatsApp'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'JQTqoYrF' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = ''
 //Daftar https://api.betabotz.eu.org 
 
 global.APIs = {   
